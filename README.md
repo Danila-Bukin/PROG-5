@@ -6,5 +6,5 @@
 ЛР5: https://colab.research.google.com/drive/1bw-wD9fm4S31o--Xud72v3CBO22i-v-N?usp=sharing  
 ЛР6: https://replit.com/@DanilaBukin/PROG5-LR6-Singleton  
 ЛР7: https://replit.com/@DanilaBukin/PROG5-LR7-Decorator  
-ЛР8: https://github.com/Danila-Bukin/mvc-simple-task  
+ЛР8: 
 ЛР9: https://colab.research.google.com/drive/12hW2SIue5gmy9ObExthA2ntfpddWwGmV?usp=sharing
